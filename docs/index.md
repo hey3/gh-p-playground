@@ -1,4 +1,8 @@
 # test
 
-[target](/ex/target.md)
+## ToC
+
+- [target](/ex/target.md)
+  - hogehoge
+- hoge
 
