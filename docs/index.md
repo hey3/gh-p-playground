@@ -19,7 +19,7 @@ hogehoge
 ## a a
 
 
-<details><summary>Advanced</summary><div>
+<details><summary>Advanced</summary>
 
 - a
   - a
@@ -33,7 +33,7 @@ type Hoge = {
 type OptionalHoge = Partial<Hoge> // { foo?: string, bar?: number }
 ```
 
-</div></details>
+</details>
 
 
 
