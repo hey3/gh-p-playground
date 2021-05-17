@@ -7,7 +7,7 @@
 - hoge
 - [a a](#a-a)
 
-<details><summary>Advanced</summary>
+<details><summary>▶Advanced</summary>
 
 hogehoge
 
@@ -19,7 +19,7 @@ hogehoge
 ## a a
 
 
-<details><summary>Advanced</summary>
+<details><summary>▶ Advanced</summary>
 
 - a
   - a
